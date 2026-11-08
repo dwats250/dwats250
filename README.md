@@ -1,17 +1,7 @@
 # Dustin
 
-I build evidence-first tools for market analysis, research, and production coordination. These are the public repositories worth starting with, ordered by current relevance.
+I build evidence-first tools for understanding markets.
 
-## Active public work
+## Featured project
 
-1. **[Modeling Standard](https://github.com/dwats250/modeling-standard)** — Consent-first collaboration and agreement tooling for photo-shoot production workflows.
-2. **[Market Brief](https://github.com/dwats250/market-brief)** — A local, evidence-first pre-market briefing system.
-3. **[Cuttingboard](https://github.com/dwats250/cuttingboard)** — A state-first, descriptive market decision-support engine for discretionary options trading.
-4. **[Strategy](https://github.com/dwats250/strategy)** — Pre-registered quantitative trading studies, reusable backtesting, and audit-ready research evidence.
-
-## Archived work
-
-- **[Signal Forge](https://github.com/dwats250/signal-forge)** — Archived.
-- **[Trading System](https://github.com/dwats250/trading-system)** — Archived.
-
-Private operational repositories and experiments are intentionally omitted from this public index.
+**[Market Brief](https://github.com/dwats250/market-brief)** — A market briefing system that combines deterministic market data with model-assisted interpretation, keeps accepted analysis stable during intraday updates, and makes evidence and freshness visible.
